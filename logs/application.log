@@ -1,0 +1,32 @@
+2025-10-22 13:52:51 [main] INFO  Log - Start chrome driver
+2025-10-22 13:53:00 [main] INFO  Log - Navigate url
+2025-10-22 13:53:00 [main] INFO  Log - Start test
+2025-10-22 13:53:00 [main] INFO  Log - enter credantials
+2025-10-22 13:53:03 [main] INFO  Log - close browser
+2025-10-22 13:53:04 [main] INFO  Log - Start chrome driver
+2025-10-22 13:53:35 [main] INFO  Log - Navigate url
+2025-10-22 13:53:35 [main] INFO  Log - Start test
+2025-10-22 13:53:35 [main] INFO  Log - enter credantials
+2025-10-22 13:53:37 [main] INFO  Log - close browser
+2025-10-22 13:53:39 [main] INFO  Log - Start chrome driver
+2025-10-22 13:53:48 [main] INFO  Log - Navigate url
+2025-10-22 13:53:48 [main] INFO  Log - Start test
+2025-10-22 13:53:48 [main] INFO  Log - enter credantials
+2025-10-22 13:53:52 [main] INFO  Log - validate title
+2025-10-22 13:53:52 [main] INFO  Log - close browser
+2025-10-23 15:01:46 [main] INFO  Log - Start chrome driver
+2025-10-23 15:01:52 [main] INFO  Log - Navigate url
+2025-10-23 15:01:52 [main] INFO  Log - Start test
+2025-10-23 15:01:52 [main] INFO  Log - enter credantials
+2025-10-23 15:01:53 [main] INFO  Log - close browser
+2025-10-23 15:01:54 [main] INFO  Log - Start chrome driver
+2025-10-23 15:02:02 [main] INFO  Log - Navigate url
+2025-10-23 15:02:02 [main] INFO  Log - Start test
+2025-10-23 15:02:02 [main] INFO  Log - enter credantials
+2025-10-23 15:02:03 [main] INFO  Log - close browser
+2025-10-23 15:02:04 [main] INFO  Log - Start chrome driver
+2025-10-23 15:02:10 [main] INFO  Log - Navigate url
+2025-10-23 15:02:10 [main] INFO  Log - Start test
+2025-10-23 15:02:10 [main] INFO  Log - enter credantials
+2025-10-23 15:02:12 [main] INFO  Log - validate title
+2025-10-23 15:02:12 [main] INFO  Log - close browser
